@@ -1,0 +1,12 @@
+{
+  "name": "clarsong/IT328/hello",
+  "authors": [
+    {
+      "name": "Cody Larson",
+      "email": "clarson23@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
